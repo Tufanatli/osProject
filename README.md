@@ -1,0 +1,1 @@
+Bu C programı, bir metin dosyasındaki komutları okuyarak bir tamponda (buffer) metin manipülasyonları yapar ve çıktı olarak "cikis.dat" dosyasına yazar. Program, çeşitli metin manipülasyon komutlarını destekler.
